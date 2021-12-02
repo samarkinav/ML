@@ -1,1 +1,1 @@
-# ML
+# University work in machine learning
