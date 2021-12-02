@@ -1,1 +1,1 @@
-# University work in machine learning
+# University works in machine learning
